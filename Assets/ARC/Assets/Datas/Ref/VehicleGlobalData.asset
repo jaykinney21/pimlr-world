@@ -1,0 +1,224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 264a1bf44d0304426af8a43ae76bb548, type: 3}
+  m_Name: VehicleGlobalData
+  m_EditorClassIdentifier: 
+  MoreOptions: 1
+  HelpBox: 0
+  tab: 0
+  carParametersList:
+  - name: Black Shuttle
+    bShow: 1
+    Prefab: {fileID: 5408797868798807606, guid: 7b4035e579f6e834b918a25c585e602b, type: 3}
+    vehicleCategory: 0
+    speed: 50
+    damageResistance: 10
+    boosterPower: 70
+    boosterDuration: 2
+    boosterCooldown: 4
+    coinMultiplier: 5
+    cost: 2000
+    isUnlocked: 1
+    speedAI: 50
+    damageResistanceAI: 10
+    boosterPowerAI: 60
+    boosterDurationAI: 2
+    boosterCooldownAI: 0.1
+    prefabScaleMultiplierInMenu: 1
+    bShowInEditor: 0
+    currentPlayerSpaceshipInformation:
+      id: 1
+      spaceship: lava shuttle
+      character: stryker
+      flame: 
+      created_at: 2023-12-14T19:02:27.000000Z
+      updated_at: 2024-02-16T05:40:43.000000Z
+  - name: Gold Shuttle
+    bShow: 1
+    Prefab: {fileID: 5408797868798807606, guid: 6a786d8f965d69f40a43b47ac7e18dbc, type: 3}
+    vehicleCategory: 0
+    speed: 50
+    damageResistance: 10
+    boosterPower: 70
+    boosterDuration: 2
+    boosterCooldown: 4
+    coinMultiplier: 5
+    cost: 30000
+    isUnlocked: 0
+    speedAI: 50
+    damageResistanceAI: 10
+    boosterPowerAI: 60
+    boosterDurationAI: 2
+    boosterCooldownAI: 0.1
+    prefabScaleMultiplierInMenu: 1
+    bShowInEditor: 1
+    currentPlayerSpaceshipInformation:
+      id: 0
+      spaceship: 
+      character: 
+      flame: 
+      created_at: 
+      updated_at: 
+  - name: Green Shuttle
+    bShow: 1
+    Prefab: {fileID: 5408797868798807606, guid: 0eda4251a072009419f114271ea0a9ee, type: 3}
+    vehicleCategory: 0
+    speed: 60
+    damageResistance: 10
+    boosterPower: 70
+    boosterDuration: 2
+    boosterCooldown: 4
+    coinMultiplier: 5
+    cost: 60000
+    isUnlocked: 0
+    speedAI: 50
+    damageResistanceAI: 10
+    boosterPowerAI: 60
+    boosterDurationAI: 2
+    boosterCooldownAI: 0.1
+    prefabScaleMultiplierInMenu: 1
+    bShowInEditor: 1
+    currentPlayerSpaceshipInformation:
+      id: 0
+      spaceship: 
+      character: 
+      flame: 
+      created_at: 
+      updated_at: 
+  - name: Lava Shuttle
+    bShow: 1
+    Prefab: {fileID: 5408797868798807606, guid: 70d07accfae75e94fa4ed5476e45ab0a, type: 3}
+    vehicleCategory: 0
+    speed: 75
+    damageResistance: 10
+    boosterPower: 70
+    boosterDuration: 2
+    boosterCooldown: 4
+    coinMultiplier: 5
+    cost: 90000
+    isUnlocked: 0
+    speedAI: 50
+    damageResistanceAI: 10
+    boosterPowerAI: 60
+    boosterDurationAI: 2
+    boosterCooldownAI: 0.1
+    prefabScaleMultiplierInMenu: 1
+    bShowInEditor: 1
+    currentPlayerSpaceshipInformation:
+      id: 0
+      spaceship: 
+      character: 
+      flame: 
+      created_at: 
+      updated_at: 
+  - name: Purple Shuttle
+    bShow: 1
+    Prefab: {fileID: 5408797868798807606, guid: 312b4c1b8effab64dad52a5644a46836, type: 3}
+    vehicleCategory: 0
+    speed: 85
+    damageResistance: 10
+    boosterPower: 70
+    boosterDuration: 2
+    boosterCooldown: 4
+    coinMultiplier: 5
+    cost: 120000
+    isUnlocked: 0
+    speedAI: 50
+    damageResistanceAI: 10
+    boosterPowerAI: 60
+    boosterDurationAI: 2
+    boosterCooldownAI: 0.1
+    prefabScaleMultiplierInMenu: 1
+    bShowInEditor: 1
+    currentPlayerSpaceshipInformation:
+      id: 0
+      spaceship: 
+      character: 
+      flame: 
+      created_at: 
+      updated_at: 
+  - name: White Shuttle
+    bShow: 1
+    Prefab: {fileID: 5408797868798807606, guid: b88967957b0cd5640b3f796e1852c221, type: 3}
+    vehicleCategory: 0
+    speed: 100
+    damageResistance: 10
+    boosterPower: 70
+    boosterDuration: 2
+    boosterCooldown: 4
+    coinMultiplier: 5
+    cost: 150000
+    isUnlocked: 0
+    speedAI: 50
+    damageResistanceAI: 10
+    boosterPowerAI: 60
+    boosterDurationAI: 2
+    boosterCooldownAI: 0.1
+    prefabScaleMultiplierInMenu: 1
+    bShowInEditor: 1
+    currentPlayerSpaceshipInformation:
+      id: 0
+      spaceship: 
+      character: 
+      flame: 
+      created_at: 
+      updated_at: 
+  CharacterList:
+  - Id: christine
+    targetObject: {fileID: 266969564765134066, guid: 33833fbc17efe02469d462af4baec5f2, type: 3}
+  - Id: papi
+    targetObject: {fileID: 4146739569089856737, guid: f2cb8b4c0946aca44a9ae20cda9d1fd0, type: 3}
+  - Id: stryker
+    targetObject: {fileID: 4970319016303706950, guid: 0631ea7dd2dd51c4ca567cb2ebe4ea6f, type: 3}
+  - Id: yogi
+    targetObject: {fileID: 6034210395751058083, guid: 139d527848129a44bb7be38ea3b29471, type: 3}
+  FlameList:
+  - Id: blue
+    targetObject: {fileID: 127620, guid: 2a0e3b23288ef1f418cb7cbb686ce738, type: 3}
+  - Id: orange
+    targetObject: {fileID: 127620, guid: 254df7ba38049f544867a30d363a2f9a, type: 3}
+  currentVehicleDisplayedInTheGarage: 1
+  OrderUsingCustomList: 0
+  customList: 
+  playerNamesList:
+  - paramName: 
+    listID: 0
+    EntryID: 139
+  - paramName: 
+    listID: 0
+    EntryID: 140
+  aiNamesList:
+  - paramName: 
+    listID: 0
+    EntryID: 141
+  - paramName: 
+    listID: 0
+    EntryID: 142
+  - paramName: 
+    listID: 0
+    EntryID: 143
+  - paramName: 
+    listID: 0
+    EntryID: 144
+  - paramName: 
+    listID: 0
+    EntryID: 145
+  - paramName: 
+    listID: 0
+    EntryID: 146
+  - paramName: 
+    listID: 0
+    EntryID: 147
+  - paramName: 
+    listID: 0
+    EntryID: 148
+  aiNameRandom: 1

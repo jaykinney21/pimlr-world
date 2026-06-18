@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66ea134a6df0f464ba6442bf15765f16, type: 3}
+  m_Name: layersListData
+  m_EditorClassIdentifier: 
+  listLayerInfo:
+  - name: Default
+    layerID: 0
+  - name: TransparentFX
+    layerID: 1
+  - name: Ignore Raycast
+    layerID: 2
+  - name: Player
+    layerID: 3
+  - name: Water
+    layerID: 4
+  - name: UI
+    layerID: 5
+  - name: EnemyTracker
+    layerID: 6
+  - name: wheels
+    layerID: 7
+  - name: carBody
+    layerID: 8
+  - name: RCC
+    layerID: 9
+  - name: RCC_WheelCollider
+    layerID: 10
+  - name: RCC_DetachablePart
+    layerID: 11
+  - name: RCC_Trailer
+    layerID: 12
+  - name: RCC_Crasher
+    layerID: 13
+  - name: Item
+    layerID: 14
+  - name: Minimap
+    layerID: 15
+  - name: Bullet
+    layerID: 16
+  - name: 
+    layerID: 17
+  - name: 
+    layerID: 18
+  - name: 
+    layerID: 19
+  - name: Triggers
+    layerID: 20
+  - name: PowerUpDetection
+    layerID: 21
+  - name: PowerUps
+    layerID: 22
+  - name: LimitZone
+    layerID: 23
+  - name: Vehicle
+    layerID: 24
+  - name: StartLine
+    layerID: 25
+  - name: PostFx01
+    layerID: 26
+  - name: PostFx02
+    layerID: 27
+  - name: PostFxAll
+    layerID: 28
