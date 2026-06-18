@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3688233675332592637
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4676162924950441938}
+  - component: {fileID: 8036619943857800068}
+  m_Layer: 8
+  m_Name: ObjectSpawnerSpaceShip
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4676162924950441938
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3688233675332592637}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0.67257124, z: -0, w: 0.7400325}
+  m_LocalPosition: {x: -335.5, y: 2.91, z: -193.3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -84.532, z: 0}
+--- !u!114 &8036619943857800068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3688233675332592637}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3d6895b0a247d2545bf12fa70d29f755, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  URL: https://www.idea-labs.xyz/api/humanityrocks/vehicles/1
+  currentPlayerInformation:
+    id: 0
+    title: 
+    wheelLight: 0
+    rimType: 
+    wheelSize: 0
+    attributes: 
+    playerAttributes:
+      body:
+        title: 
+        color: 
+      molding:
+        title: 
+        color: 
+      frame:
+        title: 
+        color: 
+      inner_frame:
+        title: 
+        color: 
+      lights:
+        title: 
+        color: 
+      logo:
+        title: 
+        color: 
+      wheel_light:
+        title: 
+        color: 
+      bumpers:
+        title: 
+        color: 
+      spoiler:
+        title: 
+        color: 
+      accent_lights:
+        title: 
+        color: 
+      front_rear_fascia:
+        title: 
+        color: 
+      led_logo:
+        title: 
+        color: 
+      cargo_cover:
+        title: 
+        color: 
+      front_grille:
+        title: 
+        color: 
+      warning_lights:
+        title: 
+        color: 
+      upper_body:
+        title: 
+        color: 
+      lower_body:
+        title: 
+        color: 
+      rear_frame:
+        title: 
+        color: 
+      accent_piece_one:
+        title: 
+        color: 
+      accent_piece_two:
+        title: 
+        color: 
+    weapons: 
+    playerWeapons: []
+    created_at: 
+    updated_at: 
+  currentPlayerSoaceshipInformation:
+    id: 1
+    spaceship: black shuttle
+    character: chris_2
+    flame: 
+    created_at: 2023-11-27T22:11:26.000000Z
+    updated_at: 2023-11-27T22:11:26.000000Z

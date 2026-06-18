@@ -1,0 +1,279 @@
+fileFormatVersion: 2
+guid: 68326af1989adb54c9460b9d62988edb
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_Finger_nailsMat
+    second: {fileID: 2100000, guid: e6549c05620349e41a2c187906fcbafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_braclete1Mat
+    second: {fileID: 2100000, guid: bd3ab3b7681fe0d4b9fa39a391b85518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_bun_hairMat
+    second: {fileID: 2100000, guid: b42cfd72f3a5ff14caa7e37915591183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_cigar1Mat
+    second: {fileID: 2100000, guid: c2caf21be2b2d0d4b9d4144019f5c4f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_earring_rMat
+    second: {fileID: 2100000, guid: f456f241fa36b474390434cd5440cc48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_eyebrowMat
+    second: {fileID: 2100000, guid: eca1a6c8ea995b94c9b31620e19c18b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_hair_FrontHairMat
+    second: {fileID: 2100000, guid: e69600e408c004d49bb67b0461c71716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_hairpinMat
+    second: {fileID: 2100000, guid: ab90062ba6bc8ba40b8a4ba40dc88870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_left_eyeMat
+    second: {fileID: 2100000, guid: 5262b856b82a8854f986c94694918598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_left_irisMat
+    second: {fileID: 2100000, guid: 531ed0675292fd64f848c8624f7cda76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_necklaceMat
+    second: {fileID: 2100000, guid: bef8dc3576bb1c74facfdaa947d1bdde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_pantsMat
+    second: {fileID: 2100000, guid: 323280d934b05954f95e53f0c4a360e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_right_eyeMat
+    second: {fileID: 2100000, guid: 5262b856b82a8854f986c94694918598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_right_irisMat
+    second: {fileID: 2100000, guid: 531ed0675292fd64f848c8624f7cda76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_shirtMat
+    second: {fileID: 2100000, guid: 82ec2d992f33f7040b344fdba6fd739b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_toothMat
+    second: {fileID: 2100000, guid: eca8f447b6cb4014fb4d6275ee4a29bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yogi_uppertoothMat
+    second: {fileID: 2100000, guid: eca8f447b6cb4014fb4d6275ee4a29bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: body_YogiMat
+    second: {fileID: 2100000, guid: a18fed8037bacd24b905c2905b0f389c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spaceShip_Earring
+    second: {fileID: 2100000, guid: f456f241fa36b474390434cd5440cc48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spaceShip_Iris
+    second: {fileID: 2100000, guid: 5262b856b82a8854f986c94694918598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spaceShip_Lashes
+    second: {fileID: 2100000, guid: eca1a6c8ea995b94c9b31620e19c18b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spaceShip_Lens
+    second: {fileID: 2100000, guid: 531ed0675292fd64f848c8624f7cda76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spaceShip_Nails_001
+    second: {fileID: 2100000, guid: e6549c05620349e41a2c187906fcbafb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spaceShip_Pants
+    second: {fileID: 2100000, guid: 323280d934b05954f95e53f0c4a360e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spaceShip_Shirt
+    second: {fileID: 2100000, guid: 82ec2d992f33f7040b344fdba6fd739b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: spaceShip_Teeth
+    second: {fileID: 2100000, guid: eca8f447b6cb4014fb4d6275ee4a29bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface2SG
+    second: {fileID: 2100000, guid: bef8dc3576bb1c74facfdaa947d1bdde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface3SG
+    second: {fileID: 2100000, guid: c2caf21be2b2d0d4b9d4144019f5c4f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface4SG
+    second: {fileID: 2100000, guid: ab90062ba6bc8ba40b8a4ba40dc88870, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface5SG
+    second: {fileID: 2100000, guid: e69600e408c004d49bb67b0461c71716, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface6SG
+    second: {fileID: 2100000, guid: a18fed8037bacd24b905c2905b0f389c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface7SG
+    second: {fileID: 2100000, guid: efc59081269ddfc4bb8671a3e4048159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface8SG
+    second: {fileID: 2100000, guid: bd3ab3b7681fe0d4b9fa39a391b85518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: standardSurface9SG
+    second: {fileID: 2100000, guid: b42cfd72f3a5ff14caa7e37915591183, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

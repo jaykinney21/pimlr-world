@@ -1,0 +1,117 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.202510665)
+
+newmtl Stryker_poly_aiStandardSurface3SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd clothes_low_aiStandardSurface3SG_BaseColor.jpg
+
+newmtl Stryker_poly_aiStandardSurface4SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd body_lo_defaultMat_BaseColor.jpg
+
+newmtl Stryker_poly_aiStandardSurface7SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd eyeball.jpg
+
+newmtl Stryker_poly_aiStandardSurface9SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd sk8_aiStandardSurface9SG_BaseColor.jpg
+
+newmtl Stryker_poly_aiStandardSurface11SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Stryker_poly_aiStandardSurface14SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd nike_high_blinn1SG_BaseColor.jpg
+
+newmtl Stryker_poly_aiStandardSurface15SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd nike_high_blinn1SG_BaseColor.jpg
+
+newmtl Stryker_poly_aiStandardSurface19SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd hair_aiStandardSurface2SG_BaseColor.jpg
+
+newmtl Stryker_poly_aiStandardSurface21SG
+kd 0.62 0.62 0.62
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Stryker_poly_aiStandardSurface23SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd Stryker_face_03_aiStandardSurface23SG_BaseColor.jpg
+
+newmtl Stryker_poly_aiStandardSurface24SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+
+newmtl Stryker_poly_aiStandardSurface25SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd Stryker_face_03_aiStandardSurface25SG_BaseColor.jpg
+
+newmtl lambert2SG
+kd 0 0 0
+ka 0 0 0
+ks 0 0 0
+ke 0 0 0
+d 1
+illum 1
+map_kd eyeball.jpg
+
