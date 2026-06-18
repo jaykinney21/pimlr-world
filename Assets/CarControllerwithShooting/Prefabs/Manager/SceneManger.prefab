@@ -1,0 +1,175 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7613252949319106174
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6083712373440653151}
+  - component: {fileID: 7119710251544033065}
+  m_Layer: 0
+  m_Name: SceneManger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6083712373440653151
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7613252949319106174}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 12.5, y: 2.5369072, z: 33.025482}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7119710251544033065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7613252949319106174}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3918c49a7a375ed4ead1b7d01f65f696, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dontdestry: 0
+  playerVehicleURL: https://www.idea-labs.xyz/api/helix/vehicles/1
+  currentPlayerInformation:
+    id: 0
+    title: 
+    wheelLight: 0
+    rimType: 
+    wheelSize: 0
+    attributes: 
+    playerAttributes:
+      body:
+        title: 
+        color: 
+      molding:
+        title: 
+        color: 
+      frame:
+        title: 
+        color: 
+      inner_frame:
+        title: 
+        color: 
+      lights:
+        title: 
+        color: 
+      logo:
+        title: 
+        color: 
+      wheel_light:
+        title: 
+        color: 
+      bumpers:
+        title: 
+        color: 
+      spoiler:
+        title: 
+        color: 
+      accent_lights:
+        title: 
+        color: 
+      front_rear_fascia:
+        title: 
+        color: 
+      led_logo:
+        title: 
+        color: 
+      cargo_cover:
+        title: 
+        color: 
+      front_grille:
+        title: 
+        color: 
+      warning_lights:
+        title: 
+        color: 
+      upper_body:
+        title: 
+        color: 
+      lower_body:
+        title: 
+        color: 
+      rear_frame:
+        title: 
+        color: 
+      accent_piece_one:
+        title: 
+        color: 
+      accent_piece_two:
+        title: 
+        color: 
+      led_lights:
+        title: 
+        color: 
+    weapons: 
+    playerWeapons: []
+    created_at: 
+    updated_at: 
+  virtualCamera: {fileID: 0}
+  playerHammer: {fileID: 2054830214180369021, guid: d6f6ab01db6ec6f469d4e6d1b4fada1f,
+    type: 3}
+  playerHero: {fileID: 1531461108414918640, guid: a97d2b6d079cb5341b262b08be195b6b,
+    type: 3}
+  playerHype: {fileID: 8970168607060989199, guid: 33885fb5baf19ea4e8693ed2b4a9d2af,
+    type: 3}
+  otherPlayerHammer: {fileID: 2513862419195088575, guid: 77ccfbb40aa6e094fbb5e52a528c2a40,
+    type: 3}
+  otherPlayerHero: {fileID: 874349169692196962, guid: d87024ca7c9137841b7934cc69eb1a05,
+    type: 3}
+  otherPlayerHype: {fileID: 8576860993847246852, guid: 62acdf26295955147ac83915517ce535,
+    type: 3}
+  helix_AI_Bot: {fileID: 7967255400496427169, guid: 4ad0ea851d6433b4f8338230353f6bec,
+    type: 3}
+  playerParent: {fileID: 0}
+  Bullet_Machinegun_Player: {fileID: -6183603452594871798, guid: 26c4279e1bec54a54ae33c98f3a1661f,
+    type: 3}
+  Bullet_Missile_Player: {fileID: 7117991365156780319, guid: 82dd214f4890446fc9209f8d26d05c9a,
+    type: 3}
+  Bullet_Missile_Client: {fileID: 3419083152699546825, guid: 835349cb3fe529d4691383bc01e80dea,
+    type: 3}
+  spawnPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  playerList: []
+  objectPrefabs:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  gameCanvas: {fileID: 0}
+  countdownTime: 0
+  respawnTime: 4
+  teamAScore: 0
+  teamBScore: 0
+  gunTarget: {fileID: 0}
