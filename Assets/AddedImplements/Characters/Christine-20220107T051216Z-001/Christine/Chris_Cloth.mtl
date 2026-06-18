@@ -1,0 +1,110 @@
+# Blender MTL File: 'Chris_37.blend'
+# Material Count: 9
+
+newmtl Black_STETHOSCOPE.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-__kzyyuq\\Image_2.png
+map_Kd C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-4jn6l9ph\\Image_0.png
+
+newmtl Eyes
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd E:\\Humanity Rock\\Christine\\ChristineEye.png
+map_d E:\\Humanity Rock\\Christine\\ChristineEye.png
+
+newmtl Flask.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-vuubpu69\\Image_17.png
+map_Kd C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-a4m1x95v\\Image_15.png
+map_d C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-a4m1x95v\\Image_15.png
+
+newmtl Frames.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-zh_gjee5\\Image_20.png
+map_Kd C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-csexzlzw\\Image_18.png
+
+newmtl Glass.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-p890pgnv\\Image_23.png
+map_Kd C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-uip9wc9y\\Image_21.png
+map_d C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-uip9wc9y\\Image_21.png
+
+newmtl Jacket.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-wvjsj_6d\\Image_26.png
+map_Kd C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-n0wqbfz1\\Image_24.png
+
+newmtl Jersey.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-rf0mbucv\\Image_29.png
+map_Kd C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-ge1t0i7h\\Image_27.png
+
+newmtl Skirt.002
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-g57x0lf0\\Image_44.png
+map_Kd C:\\Users\\cela_\\AppData\\Local\\Temp\\gltfimg-ugboi7dn\\Image_42.png
+
+newmtl Teeth
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
