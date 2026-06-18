@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5992c380261667745b40d69ebd3be889, type: 3}
+  m_Name: QuestionThree
+  m_EditorClassIdentifier: 
+  dialogue:
+  - WHAT IS THE AMOUNT OF STARS IN GALAXY IF SUBTRACTED BY THE AMOUNT OF HAIR ON
+    YOUR HEAD BRO?
+  responses:
+  - ResponseText: WHAT....
+    DialogueScriptable: {fileID: 0}
+    ResponseEventVoid: {fileID: 11400000, guid: 887827f3a0ceb104abf23a51b6e3deee,
+      type: 2}
+    ResponseEventDialogue: {fileID: 0}
+    DialogueScriptableEventPayload: {fileID: 0}
+    ResponseEventVector3: {fileID: 0}
+    Vector3EventPayload: {x: 0, y: 0, z: 0}
+    isEvent: 0
+  - ResponseText: MOYE MOYE HO GAYA YE TO
+    DialogueScriptable: {fileID: 0}
+    ResponseEventVoid: {fileID: 11400000, guid: 7624c69f8bca2244e8cb84b266ca1f60,
+      type: 2}
+    ResponseEventDialogue: {fileID: 0}
+    DialogueScriptableEventPayload: {fileID: 0}
+    ResponseEventVector3: {fileID: 0}
+    Vector3EventPayload: {x: 0, y: 0, z: 0}
+    isEvent: 0
+  giveControlBackToManager: 0

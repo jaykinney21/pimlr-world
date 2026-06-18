@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5992c380261667745b40d69ebd3be889, type: 3}
+  m_Name: Dialogue4
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "Cousin Willie: Ah, the age-old question: How much fun is your wallet willing
+    to part with? You see, I'm not just handing this beauty over to anyone. We've
+    got to make a deal, you and me. Tell you what, how about we sweeten the pot a
+    bit? You're not just buying a water gun; you're buying an experience.\r"
+  responses:
+  - ResponseText: NEXT
+    DialogueScriptable: {fileID: 11400000, guid: 373d836f77775504ba34bbd2b69c555b,
+      type: 2}
+    ResponseEventVoid: {fileID: 0}
+    ResponseEventDialogue: {fileID: 0}
+    DialogueScriptableEventPayload: {fileID: 0}
+    ResponseEventVector3: {fileID: 0}
+    Vector3EventPayload: {x: 0, y: 0, z: 0}
+    isEvent: 0
+  giveControlBackToManager: 0

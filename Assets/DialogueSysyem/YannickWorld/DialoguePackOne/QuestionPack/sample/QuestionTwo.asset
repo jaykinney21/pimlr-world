@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5992c380261667745b40d69ebd3be889, type: 3}
+  m_Name: QuestionTwo
+  m_EditorClassIdentifier: 
+  dialogue:
+  - WHAT IS 3 - 3 BRO ??
+  responses:
+  - ResponseText: 0
+    DialogueScriptable: {fileID: 11400000, guid: 4cb7eacf8e82fa348ad067201734e797,
+      type: 2}
+    ResponseEventVoid: {fileID: 11400000, guid: 0998cbf903e30244c8368bff196fdb7d,
+      type: 2}
+    ResponseEventDialogue: {fileID: 0}
+    DialogueScriptableEventPayload: {fileID: 0}
+    ResponseEventVector3: {fileID: 0}
+    Vector3EventPayload: {x: 0, y: 0, z: 0}
+    isEvent: 0
+  - ResponseText: 100
+    DialogueScriptable: {fileID: 11400000, guid: 4cb7eacf8e82fa348ad067201734e797,
+      type: 2}
+    ResponseEventVoid: {fileID: 11400000, guid: 5e3746338f3b63b45b18c43ed4632fb8,
+      type: 2}
+    ResponseEventDialogue: {fileID: 0}
+    DialogueScriptableEventPayload: {fileID: 0}
+    ResponseEventVector3: {fileID: 0}
+    Vector3EventPayload: {x: 0, y: 0, z: 0}
+    isEvent: 0
+  giveControlBackToManager: 0

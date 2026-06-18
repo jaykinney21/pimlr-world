@@ -1,0 +1,23 @@
+How to make dialogue in Yannicks world game ?
+Well fellas, here is the tutorial for you
+
+1) Drag drop the canvas prefab you want to put the dialogue in
+2) Make sure the Managers prefab is in do not destroy since it will communicate between
+   the dialogue awakener and the dialogue shower canvas
+3) Add the dialogue awakener prefab to the object you want to set as a trigger for the dialogue
+4) The dialogue awakener prefab already has a square collider trigger inside, position it
+   to where you want the trigger to be set.
+5) The trigger currently is set to activate when it comes in contact with an object with
+   the tag "Player"
+6) The awakener is currently set to trigger only once
+7) Create different dialogues from create -> dialogue -> dialogueScriptable
+8) Each dialogue is a different question with an option of what is to happen next
+9) Make multiple dialogues and attach the next dialogue to the previous dialogue to make
+   it a chain of dialogues as shown in example "DialoguePackOne"
+10) Make void events that trigger when the player chooses either of the options given
+11) Attach void script to the awakener and connect the script attached to it that you
+    want to call on answer selection, this way you can trigger events. Like in our example
+    we are counting if all answers are answered correctly, and if they are it shows a
+    log that each answer was answered correctly.
+12) Showing and Closing of the dialogue box is done via the manager made, that awakens the
+    calls inside the dialogue script attached in the dialogue in the canvas
